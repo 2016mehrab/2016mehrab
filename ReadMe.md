@@ -13,8 +13,8 @@
  <h2 align="center">GitHub Stats:</h2>
 
 <p align="center">
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=2016mehrab&theme=catppuccin_mocha&hide_border=false">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2016mehrab&theme=catppuccin_mocha&exclude_repo=SSI,ssi-agent-2,sp-ssi-agent,Basic-IDP">
+<img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2016mehrab&theme=catppuccin_mocha&exclude_repo=SSI,ssi-agent-2,sp-ssi-agent,Basic-IDP">
+<img height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=2016mehrab&theme=catppuccin_mocha&hide_border=false">
 </p>
 </div>
 
