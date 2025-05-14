@@ -1,4 +1,3 @@
-<br><br><br><br><br><br><br>
 <div align="center">
 <h1 align="center">Hi, I'm <code>Eshan </code></h1>
 <p>I am a web developer mainly working with<B> <I>Spring Boot</I></B>,<B> <I>React</I></B> and occasionally <B><I>Node.js</I></B>.  I'm passionate about everything computer science——from backend systems to user interfaces.</p>
