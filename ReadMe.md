@@ -1,15 +1,14 @@
-<div align="center">
 <h1 align="center">Hi, I'm <code>Eshan </code></h1>
 <p>I am a web developer mainly working with<B> <I>Spring Boot</I></B>,<B> <I>React</I></B> and occasionally <B><I>Node.js</I></B>.  I'm passionate about everything computer science——from backend systems to user interfaces.</p>
 
- <h2 align="center">GitHub Stats:</h2>
+ <h2 align="center">Activities:</h2>
 
 <p align="center">
-  <img width="39%" src="https://leetcard.jacoblin.cool/2016mehrab?ext=heatmap&hide=ranking&theme=dark" alt="LeetCode Stats"/>
-<img  width="55%"  src="https://github-readme-streak-stats.herokuapp.com/?user=2016mehrab&theme=catppuccin_mocha&hide_border=false">
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=2016mehrab&theme=react-dark">
+    <img width="39%" src="https://leetcard.jacoblin.cool/2016mehrab?ext=heatmap&hide=ranking&theme=dark" alt="LeetCode Stats"/>
+    <!-- <img  width="55%"  src="https://github-readme-streak-stats.herokuapp.com/?user=2016mehrab&theme=catppuccin_mocha&hide_border=false"> -->
+    <img width="55%" src="https://streak-stats.demolab.com/?user=2016mehrab&theme=catppuccin_mocha&hide_border=false" />
+    <img  src="https://github-readme-activity-graph.vercel.app/graph?username=2016mehrab&theme=react-dark">
 </p>
-</div>
 
 <h2 align="center">Connect with me:</h2>
 <div align="center">
