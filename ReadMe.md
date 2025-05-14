@@ -5,8 +5,8 @@
 
 <p align="center">
     <img width="39%" src="https://leetcard.jacoblin.cool/2016mehrab?ext=heatmap&hide=ranking&theme=dark" alt="LeetCode Stats"/>
-    <!-- <img  width="55%"  src="https://github-readme-streak-stats.herokuapp.com/?user=2016mehrab&theme=catppuccin_mocha&hide_border=false"> -->
-    <img width="55%" src="https://streak-stats.demolab.com/?user=2016mehrab&theme=catppuccin_mocha&hide_border=false" />
+    <img  width="55%"  src="https://github-readme-streak-stats.herokuapp.com/?user=2016mehrab&theme=catppuccin_mocha&hide_border=false">
+    <!-- <img width="55%" src="https://streak-stats.demolab.com/?user=2016mehrab&theme=catppuccin_mocha&hide_border=false" /> -->
     <img  src="https://github-readme-activity-graph.vercel.app/graph?username=2016mehrab&theme=react-dark">
 </p>
 
