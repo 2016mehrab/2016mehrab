@@ -1,6 +1,13 @@
   <h1 align="center">Hi, I'm <code>Eshan </code></h1> 
-  <img width="30" src="https://media.giphy.com/media/6seACmx7ri38LIEqzQ/giphy.gif?cid=ecf05e47r7vu4w2d5zqenkhet6lk9oplvdybgrjvmmitrlkq&ep=v1_stickers_related&rid=giphy.gif&ct=s"><span>I am a web developer mainly working with<B> <I>Spring Boot</I></B>,<B> <I>React</I></B> and occasionally <B><I>Node.js</I></B>. I'm passionate about everything computer science——from backend systems to user interfaces.</span><img width="30" src="https://media.giphy.com/media/025bJ5g7hYyKBc7yLf/giphy.gif?cid=ecf05e47wg2fioo2c50kzyp6jk7zdxieqk159t9oz7ysj45k&ep=v1_stickers_related&rid=giphy.gif&ct=s">
-    
+  <p align="center">
+  <img width="30" src="https://media.giphy.com/media/6seACmx7ri38LIEqzQ/giphy.gif" />
+  <span>
+    I am a web developer mainly working with
+    <b><i>Spring Boot</i></b>, <b><i>React</i></b> and occasionally <b><i>Node.js</i></b>.
+    I'm passionate about everything computer science — from backend systems to user interfaces.
+  </span>
+  <img width="30" src="https://media.giphy.com/media/025bJ5g7hYyKBc7yLf/giphy.gif" />
+</p>
 
  <h2 align="center"> 
     <img width="40" src="https://raw.githubusercontent.com/2016mehrab/Asset-Hosts/main/ezgif.com-rotate.gif">
