@@ -15,12 +15,23 @@
 <img width="40" src="https://media.giphy.com/media/4AXd5usfTeSDLNmGXT/giphy.gif?cid=ecf05e47mme617zpyxy3qx720xbpwpouxqe84j2eruspae33&ep=v1_stickers_search&rid=giphy.gif&ct=s">
  </h2>
 
-<p align="center">
-    <img width="39%" src="https://leetcard.jacoblin.cool/2016mehrab?ext=heatmap&hide=ranking&theme=dark" alt="LeetCode Stats"/>
-    <!-- <img  width="55%"  src="https://github-readme-streak-stats.herokuapp.com/?user=2016mehrab&theme=catppuccin_mocha&hide_border=false"> -->
-    <img width="55%" src="https://streak-stats.demolab.com/?user=2016mehrab&theme=catppuccin_mocha&hide_border=false" />
-    <img  src="https://github-readme-activity-graph.vercel.app/graph?username=2016mehrab&theme=react-dark">
 
+<p align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" style="border: 1px solid #444; border-radius: 8px; padding: 2px; max-height:250px;">
+        <img style="width: 100%; height: 100%; object-fit: cover;" src="https://leetcard.jacoblin.cool/2016mehrab?ext=heatmap&hide=ranking&theme=dark" alt="LeetCode Stats"/>
+      </td>
+      <td width="60%" style="border: 1px solid #444; border-radius: 8px; padding: 2px;">
+        <img style="width: 100%; height: 100%; object-fit: cover;" src="https://streak-stats.demolab.com/?user=2016mehrab&theme=catppuccin_mocha&hide_border=false"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 1px solid #444; border-radius: 8px; padding: 2px; ">
+        <img style="width: 100%; height: 100%; object-fit: contain;" src="https://github-readme-activity-graph.vercel.app/graph?username=2016mehrab&theme=react-dark"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <h2 align="center">Connect with me:</h2>
