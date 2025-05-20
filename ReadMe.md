@@ -2,7 +2,7 @@
   <p align="center">
   <img width="30" src="https://media.giphy.com/media/6seACmx7ri38LIEqzQ/giphy.gif" />
   <span>
-    I am a web developer mainly working with
+    I am a software developer mainly working with
     <b><i>Spring Boot</i></b>, <b><i>React</i></b> and occasionally <b><i>Node.js</i></b>.
     I'm passionate about everything computer science — from backend systems to user interfaces.
   </span>
