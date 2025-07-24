@@ -18,14 +18,14 @@
 
 <p align="center">
   <table width="100%">
-    <tr>
+    <!-- <tr>
       <td width="50%" style="border: 1px solid #444; border-radius: 8px; padding: 2px; max-height:250px;">
         <img style="width: 100%; height: 100%; object-fit: cover;" src="https://leetcard.jacoblin.cool/2016mehrab?ext=heatmap&hide=ranking&theme=dark" alt="LeetCode Stats"/>
       </td>
       <td width="60%" style="border: 1px solid #444; border-radius: 8px; padding: 2px;">
         <img style="width: 100%; height: 100%; object-fit: cover;" src="https://streak-stats.demolab.com/?user=2016mehrab&theme=catppuccin_mocha&hide_border=false"/>
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td colspan="2" style="border: 1px solid #444; border-radius: 8px; padding: 2px; ">
         <img style="width: 100%; height: 100%; object-fit: contain;" src="https://github-readme-activity-graph.vercel.app/graph?username=2016mehrab&theme=react-dark"/>
